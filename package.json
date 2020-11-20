@@ -1,0 +1,22 @@
+{
+  "name": "server_status_checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ships22/server_status_checker.git"
+  },
+  "author": "Ships",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ships22/server_status_checker/issues"
+  },
+  "homepage": "https://github.com/ships22/server_status_checker#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
